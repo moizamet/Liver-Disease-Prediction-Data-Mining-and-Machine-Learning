@@ -1,0 +1,1 @@
+A liver Disease Prediction that uses K nearest Neighbour, SVM and Naive Bayes Data Mining Algorithm that can predict the risk of having liver disease by taking the test result as input. machine learning algorithm is used to predict the risk. The whole application is created in flask . a python web framework. 
